@@ -70,7 +70,7 @@
     //添加图片
     //文字附着图片
     NSTextAttachment *attachment = [[NSTextAttachment alloc] init];
-    attachment.image = [UIImage imageNamed:@"text_view_attachment"];
+    attachment.image = [UIImage imageNamed:@"10.jpg"];
     
     NSAttributedString *attachString = [NSAttributedString attributedStringWithAttachment:attachment];
     

@@ -19,6 +19,8 @@
 		CC88D7BC1CBF8BFC00134487 /* text_view_attachment.png in Resources */ = {isa = PBXBuildFile; fileRef = CC88D7B91CBF8BFC00134487 /* text_view_attachment.png */; };
 		CC88D7BD1CBF8BFC00134487 /* text_view_attachment@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CC88D7BA1CBF8BFC00134487 /* text_view_attachment@2x.png */; };
 		CC88D7BE1CBF8BFC00134487 /* text_view_attachment@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CC88D7BB1CBF8BFC00134487 /* text_view_attachment@3x.png */; };
+		CCDBB9AA1CD23A6200F9244A /* tou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCDBB9A91CD23A6200F9244A /* tou.jpg */; };
+		CCDBB9AC1CD23AAA00F9244A /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCDBB9AB1CD23AAA00F9244A /* 10.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +61,8 @@
 		CC88D7B91CBF8BFC00134487 /* text_view_attachment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = text_view_attachment.png; sourceTree = "<group>"; };
 		CC88D7BA1CBF8BFC00134487 /* text_view_attachment@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "text_view_attachment@2x.png"; sourceTree = "<group>"; };
 		CC88D7BB1CBF8BFC00134487 /* text_view_attachment@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "text_view_attachment@3x.png"; sourceTree = "<group>"; };
+		CCDBB9A91CD23A6200F9244A /* tou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tou.jpg; sourceTree = "<group>"; };
+		CCDBB9AB1CD23AAA00F9244A /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +130,8 @@
 		CC88D7831CBF87C500134487 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CCDBB9A91CD23A6200F9244A /* tou.jpg */,
+				CCDBB9AB1CD23AAA00F9244A /* 10.jpg */,
 				CC88D7B91CBF8BFC00134487 /* text_view_attachment.png */,
 				CC88D7BA1CBF8BFC00134487 /* text_view_attachment@2x.png */,
 				CC88D7BB1CBF8BFC00134487 /* text_view_attachment@3x.png */,
@@ -261,6 +267,8 @@
 				CC88D7931CBF87C500134487 /* Assets.xcassets in Resources */,
 				CC88D7BC1CBF8BFC00134487 /* text_view_attachment.png in Resources */,
 				CC88D78E1CBF87C500134487 /* Main.storyboard in Resources */,
+				CCDBB9AC1CD23AAA00F9244A /* 10.jpg in Resources */,
+				CCDBB9AA1CD23A6200F9244A /* tou.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -512,6 +520,7 @@
 				CC88D7B21CBF87C500134487 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CC88D7B31CBF87C500134487 /* Build configuration list for PBXNativeTarget "04-UITextViewDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +529,7 @@
 				CC88D7B51CBF87C500134487 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CC88D7B61CBF87C500134487 /* Build configuration list for PBXNativeTarget "04-UITextViewDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +538,7 @@
 				CC88D7B81CBF87C500134487 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
